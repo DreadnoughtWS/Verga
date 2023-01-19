@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720489617026",
+    "firebase_url": "https://verga2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "verga2",
+    "storage_bucket": "verga2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720489617026:android:aab01aeaf4450236c9869b",
+        "android_client_info": {
+          "package_name": "com.example.verga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720489617026-trq4qn8t68de3sh2i85tsbphd1e2ai4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nz28h9VUQfSSABnCc4dgFfnaIWnX6nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720489617026-trq4qn8t68de3sh2i85tsbphd1e2ai4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
